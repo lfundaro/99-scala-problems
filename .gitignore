@@ -1,0 +1,6 @@
+bin/
+*.class
+*.sc
+.cache
+.project
+.worksheet
